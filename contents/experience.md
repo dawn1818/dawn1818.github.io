@@ -1,21 +1,20 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+姓名：赵晓彬
+系所：物联网与电子工程系
+职称：讲师、硕士生导师
+职务：无
+办公地点：逸夫楼802A
+办公电话：17812178378
+电子邮箱：xiaobinzhao@ustb.edu.cn
+本科课程：人工智能
+研究生课程：无
+科研方向：多源遥感图像处理；目标检测与识别；深度学习
+学术与社会兼职：
+IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+lEEE Transactions on Multimedia (IEEE TMM); 
+IEEE Transactions on Aerospaceand Electronic Systems (IEEE TAES)
+IEEE Transactions on Circuits and Systemsfor Video Technology (IEEE TCSVT)
+IEEE Transactions on Cybernetics (IEEE TCYB)
+IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+lEEE Journal of SelectedTopics in Applied EarthObservations andRemote Sensing (IEEE JSTARS)等期刊审稿人
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
-
----
-
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
-
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
-
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
