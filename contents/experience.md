@@ -1,31 +1,9 @@
+2022年获得北京理工大学博士学位，研究方向为高光谱目标检测、伪装目标检测、低慢小目标检测、多源遥感图像处理等，涉及技术包括低秩稀疏分解、张量、图论、深度学习等。近年来在IEEE TNNLS，IEEE TGRS，JAG，IEEE JSTARS，IEEE GRSL等遥感领域期刊上发表论文20余篇，主持国家自然科学基金青年基金1项，全国博士后科学基金面上项目1项，教育部重点实验室、省重点实验室开放基金多项，参与军委科技委XX国防基础加强项目、国家自然科学基金优秀青年科学基金项目等多项。担任IEEE TGRS等多个TOP期刊审稿人。
 
-姓名：赵晓彬
+2025-至今，北京科技大学，讲师
 
-系所：物联网与电子工程系
+2022-2024，北京理工大学，光学工程，博士后
 
-职称：讲师、硕士生导师
+2018-2022，北京理工大学，信息与通信工程，工学博士
 
-职务：无
-
-办公地点：逸夫楼802A
-
-办公电话：17812178378
-
-电子邮箱：xiaobinzhao@ustb.edu.cn
-
-本科课程：人工智能
-
-研究生课程：无
-
-科研方向：多源遥感图像处理；目标检测与识别；深度学习
-
-学术与社会兼职：
-
-IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)；
-lEEE Transactions on Multimedia (IEEE TMM); 
-IEEE Transactions on Aerospaceand Electronic Systems (IEEE TAES)；
-IEEE Transactions on Circuits and Systemsfor Video Technology (IEEE TCSVT)；
-IEEE Transactions on Cybernetics (IEEE TCYB)；
-IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)；
-lEEE Journal of SelectedTopics in Applied EarthObservations andRemote Sensing (IEEE JSTARS)等期刊审稿人
-
+研究生招生专业：计算机科学与技术，信息与通信工程
