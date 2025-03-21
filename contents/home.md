@@ -19,7 +19,7 @@
 
 科研方向：多源遥感图像处理；目标检测与识别；深度学习
 
-学术与社会兼职：
+<b>学术与社会兼职：<\b>
 
 IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)；
 lEEE Transactions on Multimedia (IEEE TMM); 
