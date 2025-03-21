@@ -10911,7 +10911,7 @@ footer a:hover, footer a:active, footer a:focus {
 
 
 .navbar-nav .nav-item {
-  margin-right: 8px; /* 控制导航项之间的间距 */
+  margin-right: 6px; /* 控制导航项之间的间距 */
 }
 
 .navbar-nav .nav-link {
