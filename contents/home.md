@@ -3,7 +3,7 @@
 
 单位：北京科技大学 计算机与通信工程学院
 
-团队：极化SAR图像处理及应用实验室 负责人：<a href="http://scce.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2018-04-14/112.html">殷君君</a>
+团队：极化SAR图像处理及应用实验室 <!-- 负责人：<a href="http://scce.ustb.edu.cn/shiziduiwu/jiaoshixinxi/2018-04-14/112.html">殷君君</a> -->
 
 职称：讲师、硕士生导师
 
