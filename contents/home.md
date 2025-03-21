@@ -19,13 +19,13 @@
 
 科研方向：多源遥感图像处理；目标检测与识别；深度学习
 
-<b>学术与社会兼职：<\b>
+<b>学术与社会兼职：</b>
 
-IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)；
-lEEE Transactions on Multimedia (IEEE TMM); 
-IEEE Transactions on Aerospaceand Electronic Systems (IEEE TAES)；
-IEEE Transactions on Circuits and Systemsfor Video Technology (IEEE TCSVT)；
-IEEE Transactions on Cybernetics (IEEE TCYB)；
-IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)；
+IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)；\n
+lEEE Transactions on Multimedia (IEEE TMM)；\n
+IEEE Transactions on Aerospaceand Electronic Systems (IEEE TAES)；\n
+IEEE Transactions on Circuits and Systemsfor Video Technology (IEEE TCSVT)；\n
+IEEE Transactions on Cybernetics (IEEE TCYB)；\n
+IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)；\n
 lEEE Journal of SelectedTopics in Applied EarthObservations andRemote Sensing (IEEE JSTARS)等期刊审稿人
 
