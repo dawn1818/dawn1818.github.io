@@ -173,7 +173,28 @@
         </div>
     </section>
     <!-- Awards -->
+<!-- 访问统计 -->
+<span class="mx-1">&middot;</span>
+<span>访问次数: <span id="visitCount">加载中...</span></span>
 
+    <script>
+    // 使用免费计数API（无需服务器）
+    document.addEventListener('DOMContentLoaded', function() {
+        const namespace = 'your-page'; // 改为唯一标识符
+        const key = 'visitCount';
+
+        // 创建或更新计数器
+        fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('visitCount').textContent = data.value;
+            })
+            .catch(error => {
+                console.error('统计加载失败:', error);
+                document.getElementById('visitCount').textContent = '∞';
+            });
+    });
+    </script>
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
         <div class="container px-5">
