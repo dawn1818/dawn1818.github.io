@@ -73,6 +73,13 @@
     <script type="text/javascript" id="MathJax-script" async
         src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+    <script>
+      fetch('counter.php')
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById('visit-counter').innerText = `访问次数：${data}`;
+        });
+    </script>
     <!-- Core JS-->
     <script type="text/javascript" src="static/js/scripts.js"></script>
     <script type="text/javascript" src="static/js/js-yaml.min.js"></script>
@@ -108,6 +115,10 @@
             </div>
         </div>
     </nav>
+
+    <div id="visit-counter" style="position: fixed; top: 10px; right: 10px; background: #f0f0f0; padding: 5px 10px; border-radius: 5px; font-size: 14px; box-shadow: 0 0 5px rgba(0,0,0,0.2); z-index: 1000;">
+      Loading visits...
+    </div>
 
     <!-- Top Section -->
     <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
@@ -173,29 +184,6 @@
         </div>
     </section>
     <!-- Awards -->
-
-    <!-- 访问统计 -->
-    <span class="mx-1">&middot;</span>
-    <span>访问次数: <span id="visitCount">加载中...</span></span>
-
-    <script>
-    // 使用免费计数API（无需服务器）
-    document.addEventListener('DOMContentLoaded', function() {
-        const namespace = 'your-page'; // 改为唯一标识符
-        const key = 'visitCount';
-
-        // 创建或更新计数器
-        fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
-            .then(response => response.json())
-            .then(data => {
-                document.getElementById('visitCount').textContent = data.value;
-            })
-            .catch(error => {
-                console.error('统计加载失败:', error);
-                document.getElementById('visitCount').textContent = '∞';
-            });
-    });
-    </script>
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
